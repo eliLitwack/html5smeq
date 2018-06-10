@@ -8,7 +8,7 @@ This version is a modern reimplementation of earlier Flash code shown at https:/
 ## How to use
 [`demo.html`](demo.html) contains a simple sample.
 
-To use the SEMQ in your own code, simply load JQuery into your page, and include the [`js/html5smeq.js`](js/html5smeq.js) script and the [`css/html5smeq.css`](css/html5smeq.css) stylesheet. Create an empty `<div>` element and call `initSMEQ()` with it as an argument.
+To use the SMEQ in your own code, simply load JQuery into your page, and include the [`js/html5smeq.js`](js/html5smeq.js) script and the [`css/html5smeq.css`](css/html5smeq.css) stylesheet. Create an empty `<div>` element and call `initSMEQ()` with it as an argument.
 
 **Important:** This `<div>` element should have a height set for best results, ideally one which is related to viewport height.
 
