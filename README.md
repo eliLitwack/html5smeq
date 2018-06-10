@@ -1,7 +1,7 @@
 # html5smeq
 Subjective Mental Effort Questionnaire (SMEQ) slider that works on HTML 5 mobile browsers.
 
-The SMEQ is a usability scale that was first proposed in the Netherlands by Ziklstra et al (1985), and which has seen extensive use and validation since then. A more recent comparison with other usability metrics was carried out by Sauro and Dumas (2009).
+The SMEQ is a usability scale that was first proposed in the Netherlands by Zijlstra et al (1985), and which has seen extensive use and validation since then. A more recent comparison with other usability metrics was carried out by Sauro and Dumas (2009).
 
 This version is a modern reimplementation of earlier Flash code shown at https://measuringu.com/interval-ordinal/. It is designed to work both with a mouse and with touchscreens.
 
